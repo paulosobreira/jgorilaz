@@ -1,0 +1,1 @@
+java -cp bin br.sowbreira.jgorillaz.Main
