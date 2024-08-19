@@ -1,1 +1,2 @@
-java -cp bin br.sowbreira.jgorillaz.Main
+#!/bin/bash
+java -jar target/jgorilaz-jar-with-dependencies.jar
